@@ -11,4 +11,4 @@ So in our model the state consists of a tuple of 2 things:
 
 The model takes an ordered sequence of pitches and calculate the frequency of each 2 consecutive pairs to infer the transition matrix from one state to another.
 
-# He is a recording for the original music
+
